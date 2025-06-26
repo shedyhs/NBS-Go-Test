@@ -1,0 +1,41 @@
+[
+  {
+    "numero_nota": "12345",
+    "itens": [
+      {
+        "codigo": "A01",
+        "descricao": "Caneta",
+        "quantidade": 10,
+        "valor_unitario": 2.5
+      },
+      {
+        "codigo": "B02",
+        "descricao": "Caderno",
+        "quantidade": 5,
+        "valor_unitario": 12.0
+      }
+    ]
+  },
+  {
+    "numero_nota": "12346",
+    "itens": [
+      {
+        "codigo": "C03",
+        "descricao": "Borracha",
+        "quantidade": 3,
+        "valor_unitario": 1.5
+      }
+    ]
+  },
+  {
+    "numero_nota": "12349",
+    "itens": [
+      {
+        "codigo": "D04",
+        "descricao": "Lapiseira",
+        "quantidade": 0,
+        "valor_unitario": 5.0
+      }
+    ]
+  }
+]
